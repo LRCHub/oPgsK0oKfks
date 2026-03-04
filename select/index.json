@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "LUVORATORRRRRY!",
+  "base_artist": "REOL",
+  "createdAt": "2026-03-04T09:03:37.020716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY!",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_LUVORATORRRRRY!_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Luvoratorrrrry",
+      "artist": "Jubyphonic",
+      "has_synced": true,
+      "path": "select/02_Luvoratorrrrry_Jubyphonic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY! (English Cover)【rachie + JubyPhonic】",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/03_LUVORATORRRRRY!_(English_Cover)【rachie_+_JubyPhonic】_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Luvoratorrrrry!",
+      "artist": "REOL",
+      "has_synced": true,
+      "path": "select/04_Luvoratorrrrry!_REOL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY!",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/05_LUVORATORRRRRY!_Reol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY!",
+      "artist": "Reol & nqrse",
+      "has_synced": true,
+      "path": "select/06_LUVORATORRRRRY!_Reol_&_nqrse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY! ver  feat.nqrse",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/07_LUVORATORRRRRY!_ver_feat.nqrse_Reol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY! feat. nqrse",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/08_LUVORATORRRRRY!_feat._nqrse_Reol.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY! Reol Version feat. nqrse",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/09_LUVORATORRRRRY!_Reol_Version_feat._nqrse_Reol.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY!",
+      "artist": "神田沙也加",
+      "has_synced": false,
+      "path": "select/10_LUVORATORRRRRY!_神田沙也加.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY!",
+      "artist": "Reol\u0000nqrse",
+      "has_synced": true,
+      "path": "select/11_LUVORATORRRRRY!_Reol\u0000nqrse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LUVORATORRRRRY!",
+      "artist": "RΞOL (REOL)",
+      "has_synced": true,
+      "path": "select/12_LUVORATORRRRRY!_RΞOL_(REOL).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LUVORATORRRRRY!",
+      "artist": "REOL",
+      "has_synced": false,
+      "path": "select/pl_01_LUVORATORRRRRY!_REOL.txt"
+    }
+  ]
+}
